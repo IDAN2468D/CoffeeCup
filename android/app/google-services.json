@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "741936568330",
+    "project_id": "coffeecup-ca229",
+    "storage_bucket": "coffeecup-ca229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741936568330:android:6f93860bdaeff75148e7f3",
+        "android_client_info": {
+          "package_name": "com.coffeecup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741936568330-2vttlui2rms4ldjhqml2iqvb71lgqkro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coffeecup",
+            "certificate_hash": "125a3ae1acd027719ed8c5540cade8835f4bf8a5"
+          }
+        },
+        {
+          "client_id": "741936568330-9g3hr6f8v99kltj69fqj3u351s3b1pp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB04WEqH2F_TlAarZWgKLuVRBLpGL0opCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741936568330-9g3hr6f8v99kltj69fqj3u351s3b1pp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
